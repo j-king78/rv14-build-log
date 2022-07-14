@@ -10,6 +10,6 @@ menu:
   docs:
     parent: ""
     identifier: "day-1-8b05d590b55301889cb9b27f3f69e43d"
-weight: 999
+weight: 200
 toc: true
 ---
