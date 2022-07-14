@@ -2,14 +2,14 @@
 title: "Day 1"
 description: ""
 lead: ""
-date: 2022-07-14T10:48:13-07:00
-lastmod: 2022-07-14T10:48:13-07:00
+date: 2022-07-14T11:46:35-07:00
+lastmod: 2022-07-14T11:46:35-07:00
 draft: false
 images: []
 menu:
   docs:
     parent: ""
-    identifier: "day-1-d54958f2b1d55c3908e8079b960f33bb"
+    identifier: "day-1-8b05d590b55301889cb9b27f3f69e43d"
 weight: 999
 toc: true
 ---

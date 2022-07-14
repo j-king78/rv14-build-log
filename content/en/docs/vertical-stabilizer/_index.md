@@ -1,10 +1,11 @@
 ---
-title: "Docs"
+title: "Vertical Stabilizer"
 description: ""
 lead: ""
-date: 2022-01-25T14:40:56+01:00
-lastmod: 2022-01-25T14:40:56+01:00
+date: 2022-07-14T11:00:43-07:00
+lastmod: 2022-07-14T11:00:43-07:00
 draft: false
 images: []
-type: docs
+toc: true
+weight: 10
 ---
