@@ -13,10 +13,9 @@ menu:
 weight: 400
 toc: true
 ---
-# 2022-07-13
-## Day 1 - Elevator Ribs
-Hours: 1
-Page: 09-02
+## Wednesday July 13, 2022
+Hours: 1<br>
+Page: 09-02<br>
 Steps: 1-2
 
 ### Summary
