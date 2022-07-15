@@ -13,12 +13,15 @@ menu:
 weight: 400
 toc: true
 ---
+
 ## Wednesday July 13, 2022
+
 Hours: 1<br>
 Page: 09-02<br>
 Steps: 1-2
 
 ### Summary
+
 Separated the elevator ribs and clecoed them together.
 
-![](2022-07-13.JPEG)
+![elevator ribs](2022-07-13.JPEG)
