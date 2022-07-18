@@ -20,4 +20,5 @@ Pages: 09-03 - 09-06
 
 ### Summary
 Created trim and trailing edge ribs, bent skin flanges, trimmed rear spar, prepped piano hinge for the trim tab, clecoed ribs and spars to the elevator skins.
-![Left elevator](2022-07-16_1.JPEG) ![Right elevator](2022-07-16_2.JPEG)
+
+![Left elevator](2022-07-16_1.JPEG) <br><br> ![Right elevator](2022-07-16_2.JPEG)
